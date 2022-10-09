@@ -1,2 +1,1 @@
-# cypressdiscovery.buger-eats
-Estudos em Automação de Testes📚💻
+# Cypress Discovery Projeto: __Buger-Eats__ | Estudos em Automação de Testes📚💻
