@@ -11,6 +11,6 @@
 
 ---
 
-### `Projeto rodando no GitHub Action e sendo validado através do Cypress Dashboard`
+### `Projeto rodando no GitHub Actions e sendo validado através do Cypress Dashboard`
 ![rodando-cypress2](assets/2022-10-10_16-40-30.gif)
 
