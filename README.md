@@ -5,7 +5,7 @@
 
 
 
-**Projeto rodando na interface gráfica do Cypress**{:style="color: red; opacity: 0.80;}
+{color}#312344**Projeto rodando na interface gráfica do Cypress**{color}
 
 ![rodando-cypress](assets/2022-10-09_22-11-53.gif)
 
