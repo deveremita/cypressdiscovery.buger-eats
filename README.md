@@ -5,10 +5,10 @@
 
 
 
-{color}**Projeto rodando na interface gráfica do Cypress**{color}
+### Projeto rodando na interface gráfica do Cypress
 
 ![rodando-cypress](assets/2022-10-09_22-11-53.gif)
 
-###
+---
 
-**Tudo o que aprendi com esse projeto está documentado 
+
