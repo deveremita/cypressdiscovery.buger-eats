@@ -12,7 +12,7 @@ describe('Cadastro', ()=>{
     */
 
     //Caminho feliz
-  it.skip('Usuário deve se tornar um entregador',function(){
+  it('Usuário deve se tornar um entregador',function(){
     var deliver=signupFactory.deliver()
   signup.go()
   signup.fillForm(deliver)
@@ -23,7 +23,7 @@ describe('Cadastro', ()=>{
     })
 
     //Caminho não feliz
-  it.skip('CPF incorreto',function(){
+  it('CPF incorreto',function(){
     var deliver=signupFactory.deliver()
     deliver.cpf='000000141aa'
 
@@ -33,7 +33,7 @@ describe('Cadastro', ()=>{
         signup.alertMessageShouldBe('Oops! CPF inválido')
      })
      
-  it.skip('Email incorreto',function(){
+  it('Email incorreto',function(){
     var deliver=signupFactory.deliver()
     deliver.email='user.com.br'
 
