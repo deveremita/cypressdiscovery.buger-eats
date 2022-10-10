@@ -2,7 +2,7 @@
 
 ***Esse projeto é oriundo do curso Cypress Discovery da [QAcademy](https://br.qacademy.io/cypress-discovery)***
 
-`![#313131]Projeto rodando na interface gráfica do Cypress`
+[Projeto rodando na interface gráfica do Cypress](red)
 
 ![rodando-cypress](assets/2022-10-09_22-11-53.gif)
 
